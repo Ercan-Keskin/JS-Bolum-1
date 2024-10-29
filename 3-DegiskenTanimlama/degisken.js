@@ -21,4 +21,4 @@ console.log(sifirarabafiyati);
 
 //var değiştirilebilir değişkendir.
 //const ise değiştirelemez. Bir kez değer veririz. sonrasında ilk verdiğimiz değişken
-//ile devam eder mesela const gun = 10 dediğimizde ikinci kez const gun 11 diyemeyiz.
+//ile devam eder mesela const gun = 10 dediğimizde ikinci kez const gun 11 diyemeyiz..
